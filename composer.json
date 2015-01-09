@@ -10,7 +10,7 @@
     },
     "require": {
         "php": ">=5.3.0",
-        "ext-xhprof": "*",
+        "ext-uprofiler": "*",
         "slim/slim": "2.3.1",
         "slim/views": "0.1.0",
         "twig/twig": "1.13.1",
